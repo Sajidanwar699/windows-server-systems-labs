@@ -1,6 +1,6 @@
 # Windows Server Systems Labs
 
-Hands-on Windows Server labs with step-by-step instructions and screenshots, organised by topic. Each section numbers its own labs, so new labs and new topics can be added without changing what is already here.
+Hands-on Windows Server labs with step-by-step instructions and screenshots, organised by topic.
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2012%20R2-0078D6?logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-7%20labs-005A9E)
